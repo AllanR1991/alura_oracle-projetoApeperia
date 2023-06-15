@@ -10,6 +10,10 @@ Este projeto foi desenvolvido por mim através do programa ONE (Oracle Next Educ
 ## Video do Projeto
 
 
+https://github.com/AllanR1991/projetoApeperia/assets/22855740/daa086a7-6eed-4f02-8116-80ee434ca9fd
+
+
+
 ## Recursos utilizados durante o desenvolvimento:
 
 -	SO:
