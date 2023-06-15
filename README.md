@@ -1,13 +1,14 @@
-# projeto-apeperia
+# Projeto-apeperia
 
 -	O mesmo pode ser visualizado na plataforma abaixo:
 	-	[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://allanr1991.github.io/projetoApeperia/)
+ -	
+## Sobre Projeto-Apeperia
 
-## Sobre Projeto-Apwperia
+Este projeto foi desenvolvido por mim através do programa ONE (Oracle Next Education) em parceria com a Alura e a Oracle. O qual tinha como objetivo entender como funciona o processo de desenvolvimento de páginas web, utilizando um protótipo pré-montado no [Figma](https://www.figma.com/file/lMHXpmJv7axWJgqwdIqswW/Apeperia-Mobile-First-(Copy)?type=design&node-id=0%3A1&t=t7gR7mWdwfRvRMjY-1), conhecendo a ferramenta Emmet para agilizar a escrita de códigos. Foi introduzido também variável em CSS para facilitar futuras manutenções no código. Escrita de código semântico para ajudar com a acessibilidade e SEO (Search Engine Optimization) e também realizado adaptação para diferentes layouts.
 
-Este projeto foi desenvolvido por mim através do programa ONE (Oracle Next Education) em parceria com a Alura e a Oracle. O qual tinha como objetivo entender como funciona o processo de desenvolvimento de páginas web, utilizando um prototipo premontado no [Figma](https://www.figma.com/file/lMHXpmJv7axWJgqwdIqswW/Apeperia-Mobile-First-(Copy)?type=design&node-id=0%3A1&t=t7gR7mWdwfRvRMjY-1), conhecendo a ferramenta Emmer para agilizar a escrita de códigos. Foi introduzido também variavel em CSS para facilitar futuras manutenções no código. Escrita de codigo semantico para ajudar com a acessibilidade e SEO (Search Engine Optimization) e tambem realizado adaptação para diferentes layouts.
+## Vídeo do Projeto
 
-## Video do Projeto
 
 
 https://github.com/AllanR1991/projetoApeperia/assets/22855740/daa086a7-6eed-4f02-8116-80ee434ca9fd
